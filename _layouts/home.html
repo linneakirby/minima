@@ -8,7 +8,7 @@ layout: default
   
   {{ content }}
   
-  <img src="../assets/doleful.gif" alt="test pic">
+  <img src={{ "/assets/doleful.gif" | relative_url }} alt="test pic">
 
   <ul class="post-list">
     {% for post in site.posts %}
