@@ -4,7 +4,7 @@
 
 [Theme preview](https://jekyll.github.io/minima/)
 
-![minima theme preview](/assets/doleful.gif)
+
 
 ## Installation
 
