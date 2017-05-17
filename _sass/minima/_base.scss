@@ -213,7 +213,8 @@ pre {
   }
 }
 
-.col {
-  float: left;
-  display: inline-block;
+.col after {
+  display: block;
+  clear: both;
+  content:"";
 }
