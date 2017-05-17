@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Linnea Kirby is a self-proclaimed "Contemporary Renaissance Person," with interests ranging from the creative to the analytical. Linnea recently graduated from Oberlin College, where she discovered a passion for both computer science and the circus arts. She is now constantly devising ways of integrating the two.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Throughout her work, Linnea has explored a range of topics, often imbued with dry wit, including perception of self and of the world, interaction between objects and space, and femininity.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Other talents include over nine years of classical training in ballet and piano, a conversational knowledge of French, and the ability to tie cherry stems into knots with her tongue (not as cool as it sounds).
