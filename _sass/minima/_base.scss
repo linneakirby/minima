@@ -37,10 +37,6 @@ ul, ol, dl, figure,
   margin-bottom: $spacing-unit / 2;
 }
 
-.opaque {
-  background-color: $background-color;
-}
-
 
 /**
  * Images
@@ -215,4 +211,9 @@ pre {
   li + li {
     padding-top: 5px;
   }
+}
+
+.col {
+  float: left;
+  display: inline-block;
 }
