@@ -16,4 +16,4 @@ Throughout her work, Linnea has explored a range of topics, often imbued with dr
 Other talents include over nine years of classical training in ballet and piano, a conversational knowledge of French, and the ability to tie cherry stems into knots with her tongue (not as cool as it sounds).
 {% endcapture %}
 
-{% include template.html %}
+{% include 2col.html %}
