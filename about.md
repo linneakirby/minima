@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 {% capture section1 %}
-<img src="{{ "/assets/self.jpg" | relative_url }}">
+<img src="{{ "/assets/self.jpg" | relative_url }}" style="width:30%;">
 {% endcapture %}
 
 {% capture section2 %}
