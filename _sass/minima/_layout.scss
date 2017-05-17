@@ -232,8 +232,9 @@
   border: solid;
   padding-right: 5%;
   padding-left: 5%;
-  padding-top: 1%;
+  padding-top: 3%;
   padding-bottom: 1%;
+  overflow: auto;
 
   h2 {
     @include relative-font-size(2);
