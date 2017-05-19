@@ -230,9 +230,18 @@
   margin-bottom: $spacing-unit;
   border: solid;
   padding-left: 5%;
+  padding-right: 5%;
   padding-top: 3%;
   padding-bottom: 1%;
+  text-align: justify;
   overflow: auto;
+  
+  img{
+    max-width: 45%;
+    float: left;
+    padding-right: 3%;
+    padding-bottom: 1%;
+  }
 
   h2 {
     @include relative-font-size(2);
