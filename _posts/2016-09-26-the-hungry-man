@@ -1,0 +1,5 @@
+---
+layout: post
+---
+
+![The Hungry Man]( {{ "/assets/comics/the-hungry-man.jpg" | relative_url }} )
