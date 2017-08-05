@@ -260,13 +260,28 @@
 }
 
 .post-navigation {
-  color: #fdfdfd;
+  background-color: white;
+  width: 100%;
+  border: solid black;
+  
   a {
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px 10px 20px;
     display: inline-block;
-    padding: 10px, 40px;
+    transition: all linear 0.25s
+  }
+  
+  a:visited {
+    color: darkslategray;
+  }
+  
+  a:hover {
+    background-color: black;
+    color: white;
   }
   .next {
-    float: left;
+    float: right;
   }
 }
 
