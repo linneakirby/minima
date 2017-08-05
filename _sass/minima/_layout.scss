@@ -217,10 +217,6 @@
   width: 100%;
 }
 
-.post-header-content {
-  margin: 20px;
-}
-
 .post-title {
   @include relative-font-size(2.625);
   letter-spacing: -1px;
@@ -291,6 +287,10 @@
   .next {
     float: right;
   }
+}
+
+.content-wrapper {
+  margin: 20px;
 }
 
 .about-content {
